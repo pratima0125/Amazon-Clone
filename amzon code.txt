@@ -1,0 +1,186 @@
+<!doctype html>
+<html>
+<head>
+<title> AMAZON</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<link rel="stylesheet" href="css5.css">
+</head>
+<body>
+
+<div id="nav_bar">
+<div id="logo"></div>
+
+<div id="loc"><p id="nav_adress"> deliver to</p>
+<div id="text2"><i class="fa-solid fa-location-dot"></i>
+<p>India</p>
+</div>
+</div>
+
+<div class="searchbar">
+<div id="options"><select>
+<option value="">All</option>
+<option value="">1</option>
+<option value="">2</option>
+</select>
+</div>
+<div class="search"><input type="text" placeholder="search amzon"></input></div>
+<div class="search_tool"><i class="fa-solid fa-magnifying-glass"></i></div>
+
+
+
+</div>
+<div id="langbar">
+<div id="eng"></div>
+<select id="lang">
+<option value="">eng</option>
+</select>
+</div>
+
+<div id="textbar">
+<p id="text3">hello,sign in</p>
+ <select id="text4">
+ <option value="">Accounts&lists</option>
+ </select>
+ </div>
+ 
+ <div id="textbar2">
+ <a id="text5" href="">Return</a>
+ <a id="text6" href="">& orders</a>
+
+ </div>
+ 
+ <div id="mycart">
+ <div id="cart_logo"><i id="text7" class="fa-solid fa-cart-shopping"></i></div>
+ <a id="cart" href="">Cart</a>
+ </div>
+ 
+
+
+
+</div>
+
+<div id="bar">
+<div id="minibar">
+<div id="all"><i class="fa-solid fa-list"></i>
+<p id="text8">All</p>
+</div>
+<div ><a class="deal" href="">today's deal</a>
+</div>
+<div ><a class="deal" href="">costumer service</a>
+</div>
+<div ><a class="deal" href="">registry </a>
+</div>
+<div ><a class="deal" href="">gift cards</a>
+</div>
+<div ><a class="deal" href="">sell</a>
+</div>
+
+</div>
+<div><a class="shop" href="">shop deals in electronics</a>
+</div>
+</div>
+
+<div id="hero">
+<div style="text-align:center" id="container"><p id="text9">you are on amazon.com.you can also shop on amzon india for million of products.with fast local delivery.<a id="text10" href="">click here to go to amzon.in.</a></p></div>
+</div>
+
+<div id="bigbox">
+<div  class="box" id="box1"><h2 class="image">health & personal care</h2>
+<a class="im_g" href="">shop now</a>
+<div class="picture" id="box_1"></div>
+</div>
+<div  class="box" id="box2"><h2 class="image">toothbrush</h2>
+<a class="im_g" href="">shop now</a>
+<div class="picture" id="box_2"></div>
+</div>
+<div class="box" id="box3"><h2 class="image">furniture</h2>
+<a class="im_g" href="">shop now</a>
+<div class="picture" id="box_3"></div>
+</div>
+<div class="box" id="box4"><h2 class="image">gadgets</h2>
+<a class="im_g" href="">shop now</a>
+<div class="picture" id="box_4"></div>
+</div>
+<div class="box" id="box5"><h2 class="image">makeup</h2>
+<a class="im_g" href="">shop now</a>
+<div class="picture" id="box_5"></div>
+</div>
+<div class="box" id="box6"><h2 class="image">dog products</h2>
+<a class="im_g" href="">shop now</a>
+<div class="picture" id="box_6"></div>
+</div>
+<div class="box" id="box7"><h2 class="image">toys</h2>
+<a class="im_g" href="">shop now</a>
+<div class="picture" id="box_7"></div>
+</div>
+<div class="box" id="box8"><h2 class="image">clothing</h2>
+<a class="im_g" href="">shop now</a>
+<div class="picture" id="box_8"></div>
+</div>
+</div>
+
+<div style="text-align:center" id="last">
+<a id="footer_1" href="">back on top</a>
+</div>
+
+<div id="footer_2">
+<div class="fb"  id="fb_1">
+<p class="fb_2">get to know us</p>
+<p class="fb_3">carrers</p>
+<p class="fb_3">blogs</p>
+<p class="fb_3">about amazon</p>
+<p class="fb_3">investor relations</p>
+<p class="fb_3">amazon devices</p>
+<p class="fb_3">amazon science</p>
+ 
+</div>
+
+<div class="fb" id="fb_4">
+<p class="fb_2">make money with us</p>
+<p class="fb_3">sell products on amzon</p>
+<p class="fb_3">sell on amazon business</p>
+<p class="fb_3">sell apps on amazon</p>
+<p class="fb_3">become an affiliate</p>
+<p class="fb_3">advertise your products</p>
+<p class="fb_3">self-publish with us</p>
+<p class="fb_3">host an amazon hub</p>
+<i class="fa-solid fa-arrow-right"></i><a class="fb_3" href"">see more make money with us</a>
+
+</div>
+<div class="fb" id="fb_5">
+<p class="fb_2">amazon payment products</p>
+<p class="fb_3">amazon business card</p>
+<p class="fb_3">shop with points</p>
+<p class="fb_3">reload your balance</p>
+<p class="fb_3">amazon currency convertor</p> 
+
+</div>
+
+<div class="fb" id="fb_6">
+<p class="fb_2">let us help you</p>
+<p class="fb_3">amazon and covid 19</p>
+<p class="fb_3">your account</p>
+<p class="fb_3">your orders</p>
+<p class="fb_3">shipping rates & policies</p>
+<p class="fb_3">returns & replacements</p>
+<p class="fb_3">manage your content &devices</p>
+<p class="fb_3">amazon assistant</p>
+<p class="fb_3">help</p>
+</div>
+</div>
+
+<div class="fb_7">
+<div id="fb_8"></div>
+<div id="fb_9">
+<div id="fb_10"><i class="fa-solid fa-globe"></i><p>english</p></div>
+<div id="fb_11"><div id="fb_12"></div><div id="fb_13"><p>united states</p></div></div>
+<div id="fb_14"><i class="fa-solid fa-dollar-sign"></i><p>USD-US dollar</p></div>
+</div>
+</div>
+
+
+
+
+
+</body>
+</html>
